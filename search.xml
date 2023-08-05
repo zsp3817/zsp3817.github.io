@@ -13,16 +13,16 @@
       
       <categories>
           
-          <category> ct_02 </category>
+          <category> ct-02 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> tag_01 </tag>
+            <tag> zsp-01 </tag>
             
-            <tag> tag_02 </tag>
+            <tag> zsp-02 </tag>
             
         </tags>
       
@@ -40,16 +40,16 @@
       
       <categories>
           
-          <category> ct_01 </category>
+          <category> ct-01 </category>
           
       </categories>
       
       
         <tags>
             
-            <tag> zsp1 </tag>
+            <tag> zsp-1 </tag>
             
-            <tag> zsp2 </tag>
+            <tag> zsp-2 </tag>
             
         </tags>
       
