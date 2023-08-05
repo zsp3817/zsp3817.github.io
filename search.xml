@@ -21,7 +21,16 @@
   <entry>
     <title>zsp_test_01</title>
     <url>/2023/08/05/zsp-test-01/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<p>设置代理：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">//http || https</span><br><span class="line">git config --global http.proxy 127.0.0.1:7890</span><br><span class="line">git config --global https.proxy 127.0.0.1:7890</span><br></pre></td></tr></table></figure>
+
+<p>查看代理：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global --get http.proxy</span><br><span class="line">git config --global --get https.proxy</span><br></pre></td></tr></table></figure>
+
+<p>取消代理：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line">git config --global --unset https.proxy</span><br></pre></td></tr></table></figure>
+
+]]></content>
       <tags>
         <tag>zsp1,zsp2</tag>
       </tags>
