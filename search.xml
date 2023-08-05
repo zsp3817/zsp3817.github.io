@@ -1,70 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Hello World</title>
-    <url>/2023/08/04/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>zsp_test_02</title>
-    <url>/2023/08/05/zsp_test_02/</url>
-    <content><![CDATA[<p>夫君子之行，静以修身，俭以养德。非澹泊无以明志，非宁静无以致远。夫学须静也，才须学也，非学无以广才，非志无以成学。慆慢则不能励精，险躁则不能治性。年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！</p>
-]]></content>
+<search> 
+  
+  
+    
+    <entry>
+      <title>zsp_test_02</title>
+      <link href="/2023/08/05/zsp_test_03/"/>
+      <url>/2023/08/05/zsp_test_03/</url>
+      
+        <content type="html"><![CDATA[<p>四年春，齐侯以诸侯之师侵蔡①；蔡溃，遂伐楚。楚子使与师言曰②：“君处北海③,寡人处南海，唯是风马牛不相及也④。不虞君之涉吾地也⑤，何故?”管仲对曰⑥：“昔召康公命我先君大公曰⑦：‘五侯九伯⑧，女实征之⑨，以夹辅周室。’赐我先君履：东至于海，西至于河,南至于穆陵，北至于无棣。尔贡包茅不入，王祭不共，无以缩酒，寡人是征；昭王南征而不复，寡人是问。”对曰：“贡之不入，寡君之罪也，敢不共给?昭王之不复，君其问诸水滨!”师进，次于陉。</p><p>夏，楚子使屈完如师。师退，次于召陵。齐侯陈诸侯之师，与屈完乘而观之。齐侯曰：“岂不毂是为?先君之好是继。与不毂同好，何如?”对曰：“君惠徽福于敝邑之社稷，辱收寡君，寡君之愿也。”齐侯曰：“以此众战，谁能御之?以此攻城，何城不克?”对曰：“君若以德绥诸侯，谁敢不服?君若以力，楚国方城以为城，汉水以为池，虽众，无所用之。”屈完及诸侯盟。</p>]]></content>
+      
+      
       <categories>
-        <category>ct-02</category>
+          
+          <category> ct-02 </category>
+          
       </categories>
-      <tags>
-        <tag>zsp-01</tag>
-        <tag>zsp-02</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>zsp_test_02</title>
-    <url>/2023/08/05/zsp_test_03/</url>
-    <content><![CDATA[<p>四年春，齐侯以诸侯之师侵蔡①；蔡溃，遂伐楚。楚子使与师言曰②：“君处北海③,寡人处南海，唯是风马牛不相及也④。不虞君之涉吾地也⑤，何故?”管仲对曰⑥：“昔召康公命我先君大公曰⑦：‘五侯九伯⑧，女实征之⑨，以夹辅周室。’赐我先君履：东至于海，西至于河,南至于穆陵，北至于无棣。尔贡包茅不入，王祭不共，无以缩酒，寡人是征；昭王南征而不复，寡人是问。”对曰：“贡之不入，寡君之罪也，敢不共给?昭王之不复，君其问诸水滨!”师进，次于陉。</p>
-<p>夏，楚子使屈完如师。师退，次于召陵。齐侯陈诸侯之师，与屈完乘而观之。齐侯曰：“岂不毂是为?先君之好是继。与不毂同好，何如?”对曰：“君惠徽福于敝邑之社稷，辱收寡君，寡君之愿也。”齐侯曰：“以此众战，谁能御之?以此攻城，何城不克?”对曰：“君若以德绥诸侯，谁敢不服?君若以力，楚国方城以为城，汉水以为池，虽众，无所用之。”屈完及诸侯盟。</p>
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> zsp-01 </tag>
+            
+            <tag> zsp-02 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>zsp_test_02</title>
+      <link href="/2023/08/05/zsp_test_02/"/>
+      <url>/2023/08/05/zsp_test_02/</url>
+      
+        <content type="html"><![CDATA[<p>夫君子之行，静以修身，俭以养德。非澹泊无以明志，非宁静无以致远。夫学须静也，才须学也，非学无以广才，非志无以成学。慆慢则不能励精，险躁则不能治性。年与时驰，意与日去，遂成枯落，多不接世，悲守穷庐，将复何及！</p>]]></content>
+      
+      
       <categories>
-        <category>ct-02</category>
+          
+          <category> ct-02 </category>
+          
       </categories>
-      <tags>
-        <tag>zsp-01</tag>
-        <tag>zsp-02</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>zsp_test_01</title>
-    <url>/2023/08/05/zsp-test-01/</url>
-    <content><![CDATA[<h5 id="NO-01-代理相关"><a href="#NO-01-代理相关" class="headerlink" title="NO_01 代理相关"></a>NO_01 代理相关</h5><h6 id="设置代理："><a href="#设置代理：" class="headerlink" title="设置代理："></a>设置代理：</h6><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">//http || https</span><br><span class="line">git config --global http.proxy 127.0.0.1:7890</span><br><span class="line">git config --global https.proxy 127.0.0.1:7890</span><br></pre></td></tr></table></figure>
-
-<h6 id="查看代理："><a href="#查看代理：" class="headerlink" title="查看代理："></a>查看代理：</h6><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global --get http.proxy</span><br><span class="line">git config --global --get https.proxy</span><br></pre></td></tr></table></figure>
-
-<span id="more"></span>
-
-<h6 id="取消代理："><a href="#取消代理：" class="headerlink" title="取消代理："></a>取消代理：</h6><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line">git config --global --unset https.proxy</span><br></pre></td></tr></table></figure>
-
-]]></content>
+      
+      
+        <tags>
+            
+            <tag> zsp-01 </tag>
+            
+            <tag> zsp-02 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>zsp_test_01</title>
+      <link href="/2023/08/05/zsp-test-01/"/>
+      <url>/2023/08/05/zsp-test-01/</url>
+      
+        <content type="html"><![CDATA[<h5 id="NO-01-代理相关"><a href="#NO-01-代理相关" class="headerlink" title="NO_01 代理相关"></a>NO_01 代理相关</h5><h6 id="设置代理："><a href="#设置代理：" class="headerlink" title="设置代理："></a>设置代理：</h6><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">//http || https</span><br><span class="line">git config --global http.proxy 127.0.0.1:10809</span><br><span class="line">git config --global https.proxy 127.0.0.1:10809</span><br></pre></td></tr></table></figure><h6 id="查看代理："><a href="#查看代理：" class="headerlink" title="查看代理："></a>查看代理：</h6><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global --get http.proxy</span><br><span class="line">git config --global --get https.proxy</span><br></pre></td></tr></table></figure><span id="more"></span><h6 id="取消代理："><a href="#取消代理：" class="headerlink" title="取消代理："></a>取消代理：</h6><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">git config --global --unset http.proxy</span><br><span class="line">git config --global --unset https.proxy</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
       <categories>
-        <category>ct-01</category>
+          
+          <category> ct-01 </category>
+          
       </categories>
-      <tags>
-        <tag>zsp-1</tag>
-        <tag>zsp-2</tag>
-      </tags>
-  </entry>
+      
+      
+        <tags>
+            
+            <tag> zsp-1 </tag>
+            
+            <tag> zsp-2 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2023/08/04/hello-world/"/>
+      <url>/2023/08/04/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><span id="more"></span><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
